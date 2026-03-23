@@ -8,17 +8,6 @@
 
 <br/>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║          Backend Developer  ·  .NET Core  ·  APIs    ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## 💡 About Me
 
@@ -57,10 +46,16 @@ I enjoy turning complex problems into simple, clean, and efficient solutions.
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite logo" />
  </div>
- 
----
 
----
+ 
+## 📊 
+ 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=awefky10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=awefky10&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
+</div>
+
 
 ## 🐍 
 
